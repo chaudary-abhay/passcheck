@@ -1,0 +1,4 @@
+# No third-party libraries are required.
+# The project uses only Python standard-library modules:
+# re, string, secrets, and getpass.
+# Recommended: Python 3.9 or later.
